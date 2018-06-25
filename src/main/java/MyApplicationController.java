@@ -31,7 +31,7 @@ public class MyApplicationController {
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public String olaMundo() {
-        return "Olá mundo!";
+        return "Eu amo Isco ♥";
     }
 
     
